@@ -1,17 +1,19 @@
-Team #
+Team #5
 
 
-Team Member: 
-
+Team Member:
+- Jason Kraft
+- Aquiel Godeau
+- Wailana Chan
 
 Email:
 
 
-Project: 
+Project:
 
 
 Description:
 
 
 
-Project Video Links: 
+Project Video Links:
